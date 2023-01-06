@@ -4,7 +4,7 @@
 
 - 📫 How to reach me **krandayusuf@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Share as well:</h3>
 <p align="left">
 <a href="https://medium.com/@krandayusuf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@krandayusuf" height="30" width="40" /></a>
 </p>
