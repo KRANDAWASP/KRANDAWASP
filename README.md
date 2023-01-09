@@ -6,7 +6,7 @@
 
 <h3 align="left">Share as well:</h3>
 <p align="left">
-<a href="https://medium.com/@krandayusuf" target="blank"><a href="[https://medium.com/@krandayusuf](https://www.linkedin.com/in/krandayusuf/)" target="blank">  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@krandayusuf" height="30" width="40" /></a>
+<a href="https://medium.com/@krandayusuf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@krandayusuf" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
